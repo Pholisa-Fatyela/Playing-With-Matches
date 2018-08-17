@@ -1,0 +1,7 @@
+div {
+    font-family: monospace;
+    color: cyan;
+    background-color: bisque;
+    font-size: 50em;
+    border: solid 5px black;  
+}
